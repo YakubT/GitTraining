@@ -13,3 +13,4 @@ I am a student of FAM 121 (КП-12).
 ```js
   console.log('I am Tolia')
 ```
+Я не писав як запускати, бо я код просто скопіпастив зі своїх солюшенів в codewars
