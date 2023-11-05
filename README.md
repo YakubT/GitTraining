@@ -9,3 +9,7 @@ I am a student of FAM 121 (КП-12).
 * I am Tolia
 * I am Yakubyshyn
 * I am from FAM
+
+```
+  console.log('I am Tolia')
+```
