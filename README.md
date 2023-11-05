@@ -10,6 +10,6 @@ I am a student of FAM 121 (КП-12).
 * I am Yakubyshyn
 * I am from FAM
 
-```
+```js
   console.log('I am Tolia')
 ```
